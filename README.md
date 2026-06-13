@@ -1,4 +1,3 @@
-# Advanced-Programming-
-
-# Question 
-Write a C program to analyze time complexities in constant time, linear time and quadratic time. Increase the size of input to check the time consumed.
+Advanced Programming 
+Name - Aryan Raj
+Roll no. - CSB24050
